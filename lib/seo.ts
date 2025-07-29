@@ -1,5 +1,5 @@
 export const seo = {
-  title: 'CLOUDCAT'S NAP',
+  title: 'Cali Castle | 开发者、设计师、细节控、创始人',
   description:
     '往四处走走',
   url: new URL(
