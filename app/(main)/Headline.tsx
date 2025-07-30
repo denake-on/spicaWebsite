@@ -54,7 +54,7 @@ export function Headline() {
           delay: 0.1,
         }}
       >
-        <Balancer>往四處走走</Balancer>
+        <Balancer>記憶是一罐罐頭，小孔雀往四處走走</Balancer>
       </motion.p>
 
       <motion.div
