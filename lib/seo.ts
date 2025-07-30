@@ -1,7 +1,7 @@
 export const seo = {
-  title: 'Cali Castle | 开发者、设计师、细节控、创始人',
+  title: 'Cali Castle | 如果記憶是一罐罐頭',
   description:
-    '往四处走走',
+    '小孔雀往四處走走',
   url: new URL(
     process.env.NODE_ENV === 'production'
       ? 'https://cali.so'
